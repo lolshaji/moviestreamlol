@@ -1,0 +1,5 @@
+{
+  "name": "ThelDen - Your Ultimate Streaming Destination",
+  "description": "A Netflix-inspired streaming application named ThelDen, featuring a secure authentication system, a multi-page user interface for browsing movies and TV shows, user profiles, and an integrated admin panel with AI-powered content generation.",
+  "requestFramePermissions": []
+}
